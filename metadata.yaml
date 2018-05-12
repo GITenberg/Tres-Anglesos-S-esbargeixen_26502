@@ -1,0 +1,43 @@
+_repo: Tres-Anglesos-S-esbargeixen_26502
+_version: 0.1.0
+alternative_title: Three Men on the Bummel. Catalan
+contributor:
+  translators:
+  - agent_name: Ferrando, Martinez
+    gutenberg_agent_id: '32050'
+    url: http://www.gutenberg.org/2009/agents/32050
+  - agent_name: Mustieles, Jacinto María
+    aliases:
+    - Mustieles, J. M.
+    - Mustieles, Jacinto Maria
+    birthdate: 1887
+    gutenberg_agent_id: '32051'
+    url: http://www.gutenberg.org/2009/agents/32051
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_issued: '2008-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26502'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Black Forest (Germany) -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'British -- Germany -- Fiction'
+- !lcc 'PR'
+title: Tres Anglesos S'esbargeixen
+url: http://www.gutenberg.org/ebooks/26502
