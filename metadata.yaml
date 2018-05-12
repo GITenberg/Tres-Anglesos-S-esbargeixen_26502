@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/173
     wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26502#Tres-Anglesos-S-esbargeixen
 gutenberg_issued: '2008-09-01'
 gutenberg_type: Text
 identifiers:
